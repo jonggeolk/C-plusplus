@@ -5,6 +5,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE7C2F12-8397-455F-A709-F760AF80C949}|Program.vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FE7C2F12-8397-455F-A709-F760AF80C949}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97830CFD-0857-4207-B7E9-06354C96D2F8}|..\\Class6th (Encapsuleltion)\\Class6th (Encapsuleltion).vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class6th (Encapsuleltion)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7C2F12-8397-455F-A709-F760AF80C949}|Program.vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE7C2F12-8397-455F-A709-F760AF80C949}|Program.vcxproj|solutionrelative:Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D655373-9C4F-42CB-8221-57AA465AC60C}|..\\Class5th (Default Parameter)\\Class5th (Default Parameter).vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class5th (Default Parameter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D655373-9C4F-42CB-8221-57AA465AC60C}|..\\Class5th (Default Parameter)\\Class5th (Default Parameter).vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D655373-9C4F-42CB-8221-57AA465AC60C}|..\\Class5th (Default Parameter)\\Class5th (Default Parameter).vcxproj|solutionrelative:Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +28,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unit.h",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Unit.h",
+              "RelativeDocumentMoniker": "Unit.h",
+              "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Unit.h",
+              "RelativeToolTip": "Unit.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T12:01:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class5th (Default Parameter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Default Parameter)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class5th (Default Parameter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (Default Parameter)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T12:01:02.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Transform.cpp",
+              "RelativeDocumentMoniker": "Transform.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Transform.cpp",
+              "RelativeToolTip": "Transform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T12:01:00.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class6th (Encapsuleltion)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Encapsuleltion)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class6th (Encapsuleltion)\\Source.cpp",
+              "RelativeToolTip": "..\\Class6th (Encapsuleltion)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T11:08:15.972Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +90,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvxMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-16T13:56:16.891Z",
               "EditorCaption": ""
