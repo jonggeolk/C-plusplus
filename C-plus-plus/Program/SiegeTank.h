@@ -2,5 +2,10 @@
 #include "Mechanic.h"
 class SiegeTank :public Mechanic
 {
+public:
+	SiegeTank();
+	~SiegeTank();
+	
+	void Move()override;
 };
 
