@@ -4,7 +4,7 @@ class SiegeTank :public Mechanic
 {
 public:
 	SiegeTank();
-	~SiegeTank();
+	virtual~SiegeTank();
 	
 	void Move()override;
 };

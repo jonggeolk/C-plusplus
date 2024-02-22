@@ -4,7 +4,7 @@ class Goliath : public Mechanic
 {
 public:
 	Goliath();
-	~Goliath();
+	virtual~Goliath();
 	
 	void Move() override;
 };

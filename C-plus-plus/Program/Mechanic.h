@@ -11,7 +11,7 @@ private:
 
 public:
 	Mechanic();
-	~Mechanic();
+	virtual~Mechanic();
 
 
 
