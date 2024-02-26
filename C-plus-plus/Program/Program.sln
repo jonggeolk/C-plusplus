@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th (Polymorphism)", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th (Virthre Funtion)", "..\Class9th (Virthre Funtion)\Class9th (Virthre Funtion).vcxproj", "{1F9944E4-64B4-4770-9BFE-1243174FE9FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (UpCasting)", "..\Class10th (UpCasting)\Class10th (UpCasting).vcxproj", "{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class11th (Pu Cirtual Funtion)", "..\Class11th (Pu Cirtual Funtion)\Class11th (Pu Cirtual Funtion).vcxproj", "{E74E544A-A4F3-481D-8028-9895E63D0FE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +115,22 @@ Global
 		{1F9944E4-64B4-4770-9BFE-1243174FE9FF}.Release|x64.Build.0 = Release|x64
 		{1F9944E4-64B4-4770-9BFE-1243174FE9FF}.Release|x86.ActiveCfg = Release|Win32
 		{1F9944E4-64B4-4770-9BFE-1243174FE9FF}.Release|x86.Build.0 = Release|Win32
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Debug|x64.ActiveCfg = Debug|x64
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Debug|x64.Build.0 = Debug|x64
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Debug|x86.Build.0 = Debug|Win32
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Release|x64.ActiveCfg = Release|x64
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Release|x64.Build.0 = Release|x64
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Release|x86.ActiveCfg = Release|Win32
+		{4BF3BE14-930E-4B50-9DC3-DEE91BD66B06}.Release|x86.Build.0 = Release|Win32
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Debug|x64.ActiveCfg = Debug|x64
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Debug|x64.Build.0 = Debug|x64
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Debug|x86.Build.0 = Debug|Win32
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Release|x64.ActiveCfg = Release|x64
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Release|x64.Build.0 = Release|x64
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Release|x86.ActiveCfg = Release|Win32
+		{E74E544A-A4F3-481D-8028-9895E63D0FE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

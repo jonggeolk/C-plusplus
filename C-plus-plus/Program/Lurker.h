@@ -1,5 +1,12 @@
 #pragma once
-class Lurker
+#include "Zerg.h"
+class Lurker : public Zerg
 {
+public:
+
+	Lurker();
+	~Lurker();
+
+	virtual void Recovery() override;
 };
 
