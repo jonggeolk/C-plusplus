@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{FE7C2F12-8397-455F-A709-F760AF80C949}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F72D96BB-4379-440F-967F-F0405DFE3E0B}|..\\Class12th (Smart Pointer)\\Class12th (Smart Pointer).vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class12th (Smart Pointer)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E74E544A-A4F3-481D-8028-9895E63D0FE1}|..\\Class11th (Pu Cirtual Funtion)\\Class11th (Pu Cirtual Funtion).vcxproj|C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class11th (Pu Cirtual Funtion)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -54,11 +57,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class12th (Smart Pointer)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Smart Pointer)\\source.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class12th (Smart Pointer)\\source.cpp",
+              "RelativeToolTip": "..\\Class12th (Smart Pointer)\\source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T12:39:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class11th (Pu Cirtual Funtion)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Pu Cirtual Funtion)\\source.cpp",
@@ -66,12 +82,11 @@
               "RelativeToolTip": "..\\Class11th (Pu Cirtual Funtion)\\source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-26T03:18:28.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T03:18:28.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class10th (UpCasting)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class10th (UpCasting)\\source.cpp",
@@ -79,12 +94,11 @@
               "RelativeToolTip": "..\\Class10th (UpCasting)\\source.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-26T02:46:16.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T02:46:16.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vulture.h",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Vulture.h",
               "RelativeDocumentMoniker": "Vulture.h",
@@ -92,8 +106,7 @@
               "RelativeToolTip": "Vulture.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-26T01:47:04.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T01:47:04.722Z"
             },
             {
               "$type": "Document",
@@ -110,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SiegeTank.h",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\SiegeTank.h",
               "RelativeDocumentMoniker": "SiegeTank.h",
@@ -118,12 +131,11 @@
               "RelativeToolTip": "SiegeTank.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-22T12:04:37.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T12:04:37.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Mechanic.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Mechanic.cpp",
               "RelativeDocumentMoniker": "Mechanic.cpp",
@@ -135,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class9th (Virthre Funtion)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Virthre Funtion)\\Source.cpp",
@@ -147,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source..cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class8th (Polymorphism)\\Source..cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Polymorphism)\\Source..cpp",
@@ -159,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class7th (iheritionce)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (iheritionce)\\source.cpp",
@@ -171,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class5th (Default Parameter)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Default Parameter)\\Source.cpp",
@@ -183,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class4th (Copy Constructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Copy Constructor)\\Source.cpp",
@@ -195,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Class6th (Encapsuleltion)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Encapsuleltion)\\Source.cpp",
@@ -207,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Transform.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC885\uAC78\\Desktop\\C-plusplus\\C-plus-plus\\Program\\Transform.cpp",
               "RelativeDocumentMoniker": "Transform.cpp",
